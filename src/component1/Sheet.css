@@ -1,0 +1,65 @@
+.services{
+    margin: 50px;
+}
+.services h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.services .card-container .row {
+    gap: 50px;
+    margin-top: 60px;
+    justify-content: center;
+    
+}
+.contact{
+    margin-top: 80px;
+    padding: 0 50px;
+}
+.contact h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.aim{
+    margin-top: 80px ;
+    align-items: center;
+}
+.aim h2{
+    text-align: center;
+    text-decoration: underline;
+
+}
+.sustanable-dev-goals{
+    margin: 50px 0;
+    background-color: rgb(228, 240, 232);
+    padding: 50px;
+    justify-content: center;
+}
+.sustanable-dev-goals h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.sustanable-dev-goals img{
+    margin: 20px 0;
+    height: 200px;
+    width: 1100px;
+}
+.here-how-you-can-help{
+    margin: 50px 0;
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.here-how-you-can-help h3{
+    width: 350px;
+    text-align: center;
+    border: 2px yellow solid;
+    background-color: yellow;
+    border-radius: 4px;
+}
+#navbar{
+    border-bottom: 3px solid rgb(39, 39, 92);
+}
+#carouselExampleIndicators img{
+    object-fit: fill;
+}
